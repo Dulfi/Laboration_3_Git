@@ -26,7 +26,4 @@ Svaren på frågorna samt uppgifter för Del 2 läggs i ett och samma dokument s
 För att klona mitt repository till en lokal dator används följande kommando:
 ```bash
 git clone https://github.com/Dulfi/Laboration_3_Git.git
-
-### 2. URL till min GitHub-profil
-Min personliga GitHub-profil finns på följande adress:  
-[https://github.com/Dulfi](https://github.com/Dulfi)
+```
